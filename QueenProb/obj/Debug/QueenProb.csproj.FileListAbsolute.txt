@@ -1,0 +1,6 @@
+c:\users\ömer\documents\visual studio 2013\Projects\QueenProb\QueenProb\bin\Debug\QueenProb.exe.config
+c:\users\ömer\documents\visual studio 2013\Projects\QueenProb\QueenProb\obj\Debug\QueenProb.csprojResolveAssemblyReference.cache
+c:\users\ömer\documents\visual studio 2013\Projects\QueenProb\QueenProb\bin\Debug\QueenProb.exe
+c:\users\ömer\documents\visual studio 2013\Projects\QueenProb\QueenProb\bin\Debug\QueenProb.pdb
+c:\users\ömer\documents\visual studio 2013\Projects\QueenProb\QueenProb\obj\Debug\QueenProb.exe
+c:\users\ömer\documents\visual studio 2013\Projects\QueenProb\QueenProb\obj\Debug\QueenProb.pdb
